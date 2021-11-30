@@ -1,20 +1,20 @@
 # Remote-Control-Tripod
 
 
-##Description
+## Description
 
-##Design
+## Design
 
-##Research
+## Research
 
-##Materials
+## Materials
 
-##Goals
+## Goals
 
-##Proof of Concept
+## Proof of Concept
 
-##Progress
+## Progress
 
-##Problems
+## Problems
 
-##Reflection
+## Reflection
