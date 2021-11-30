@@ -27,7 +27,7 @@
 
 ### Proof of Concept
 Controlling LEDs with IR Remote & Reciever
-
+![Proof Of Concept Gif](https://github.com/jkrosby51/Remote-Control-Tripod/blob/main/Images/ProofOfConcept.gif)
 ### Progress
 
 ### Problems
