@@ -10,6 +10,15 @@ int redPin = 4;
 int yellowPin = 3;
 int bluePin = 2;
 
+#define tiltL 10094
+#define tiltR 10097
+#define play  10096
+#define chU 255
+#define chL -16321
+#define chR 16575
+#define chD -32651
+#define ok  -28561
+
 void setup() { 
   Serial.begin(9600); 
   irrecv.enableIRIn(); 
@@ -20,17 +29,17 @@ void loop() {
     int value = results.value;     
     Serial.println(value);      
     switch(value){     
-      case 10094:
+      case tiltL:
       digitalWrite(redPin, HIGH);
       digitalWrite(yellowPin, LOW);
       digitalWrite(bluePin, LOW);
   } switch(value){
-      case 10096:
+      case play:
       digitalWrite(redPin, LOW);
       digitalWrite(yellowPin, HIGH);
       digitalWrite(bluePin, LOW);
   } switch(value){
-      case 10097:
+      case tiltR:
       digitalWrite(redPin, LOW);
       digitalWrite(yellowPin, LOW);
       digitalWrite(bluePin, HIGH);
