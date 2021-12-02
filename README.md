@@ -20,7 +20,9 @@
 - Polar Arm
   - Simpler and much easier to design and build
   - Less depth
+
 **Phone Holder**
+
 **IR Remotes**
   - GE Universal Remote [Amazon Link](https://www.amazon.com/GE-Lighting-Device-Universal-Remote/dp/B076QDZZF9?ref_=ast_sto_dp)
   - 30ft range
