@@ -2,9 +2,16 @@
 
 
 ### Description
-  This project is a tripod with the capability of turning on all axes to aim a phone camera attached. It is controlled by an IR Universal Remote and an Arduino Uno.
+  This project is a tripod with the capability of turning on all axes to aim a phone camera attached from up to 30ft away. It is controlled by an IR Universal Remote and an Arduino Uno.
 ### Design
-  
+- First Design  
+  - Articulate Arm
+  - Allowed for large range in the position of the camera
+- Second Design
+  - Polar Arm
+  - Allowed for full range in rotation and camera aim
+  - Removed the ability for depth and range for camera position
+  - Much simpler design
 ### Research
 **Arm Types**
 - Articulate Arm
