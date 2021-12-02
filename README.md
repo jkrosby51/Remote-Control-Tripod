@@ -13,7 +13,7 @@
   - Removed the ability for depth and range for camera position
   - Much simpler design
 ### Research
-**Arm Types**
+  **Arm Types**
 - Articulate Arm
   - Could aim the phone in any direction and could have depth
   - Fairly easy to design and build
@@ -21,9 +21,7 @@
   - Simpler and much easier to design and build
   - Less depth
 
-**Phone Holder**
-
-**IR Remotes**
+  **IR Remotes**
   - GE Universal Remote [Amazon Link](https://www.amazon.com/GE-Lighting-Device-Universal-Remote/dp/B076QDZZF9?ref_=ast_sto_dp)
   - 30ft range
 
