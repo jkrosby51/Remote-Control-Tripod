@@ -4,7 +4,7 @@
   This project is a portable self controlled tripod to be used for taking quality and well aimed pictures on your own from up to 30ft away from the camera. It is capable of turning on all axes to aim a phone camera mounted at the top. It is controlled by an IR Universal Remote and an Arduino Uno.
   
 ### Goals *** explain why ***
-  The goal of this project is to create an IR remote controlled tripod with 180 degree rotation in all directions.
+  The goal of this project is to create an IR remote controlled tripod with 180 degree rotation in all directions. This project is meant to cover the inconvenience of a regular tripod of not being able to re-adjust while posing.
 
 ### Criteria 
 - 180 degree rotation of x, y, and z axes
@@ -41,12 +41,14 @@
   - Allowed for full range in rotation and camera aim
   - Removed the ability for depth and range for camera position
   - Much simpler design
-
+- Final Design: Polar Arm
+  Much more simple to build and design compared to articulate arm, the added depth would not make enough of a difference for longer ranged shots which the project is designed for. The first design is also less portable and uses more material to build.
 ### Materials
-- Arduino Uno w/ prototyping shield
-- IR Remote and IR Reciever
-- 3x 180 Servo
-
+- Arduino Uno w/ prototyping shield|| ~$36
+- IR Remote and IR Reciever        || ~$12.50
+- 3x 180 Servo                     || ~$2 per servo
+- Acrylic sheets for laser cutting || ~$4 to $9 per square foot
+- Plastic for 3D printing          || ~$15 to $25 per kilogram
 ### Proof of Concept
 Controlling LEDs with IR Remote & Reciever
 
