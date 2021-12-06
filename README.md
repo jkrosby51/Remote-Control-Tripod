@@ -44,11 +44,11 @@
 - Final Design: Polar Arm
   Much more simple to build and design compared to articulate arm, the added depth would not make enough of a difference for longer ranged shots which the project is designed for. The first design is also less portable and uses more material to build.
 ### Materials
-- Arduino Uno w/ prototyping shield|| ~$36
-- IR Remote and IR Reciever        || ~$12.50
-- 3x 180 Servo                     || ~$2 per servo
-- Acrylic sheets for laser cutting || ~$4 to $9 per square foot
-- Plastic for 3D printing          || ~$15 to $25 per kilogram
+- Arduino Uno w/ prototyping shield || ~$36
+- IR Remote and IR Reciever         || ~$12.50
+- 3x 180 Servo                      || ~$2 per servo
+- Acrylic sheets for laser cutting  || ~$4 to $9 per square foot
+- Plastic for 3D printing           || ~$15 to $25 per kilogram
 ### Proof of Concept
 Controlling LEDs with IR Remote & Reciever
 
