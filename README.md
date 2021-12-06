@@ -41,7 +41,7 @@
   - Allowed for full range in rotation and camera aim
   - Removed the ability for depth and range for camera position
   - Much simpler design
-- Final Design: Polar Arm
+- Final Design: Polar Arm.
   Much more simple to build and design compared to articulate arm, the added depth would not make enough of a difference for longer ranged shots which the project is designed for. The first design is also less portable and uses more material to build.
 ### Materials
 - Arduino Uno w/ prototyping shield || ~$36
