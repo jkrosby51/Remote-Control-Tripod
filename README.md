@@ -29,6 +29,9 @@
   - Less depth
   - Less material
   - More portable
+- Rotating Plate
+  - Simple design
+  - Significantly less rotation range
 
 **IR Remotes**
 - GE Universal Remote [Amazon Link](https://www.amazon.com/GE-Lighting-Device-Universal-Remote/dp/B076QDZZF9?ref_=ast_sto_dp)
