@@ -60,7 +60,11 @@ Controlling LEDs with IR Remote & Reciever
 <img src="https://github.com/jkrosby51/Remote-Control-Tripod/blob/main/Images/ProofOfConcept.gif" width="330" height="500" />
 
 ### Progress
-
+ - The controller code is complete other than servo names which will be added once the project is assembled.
+ - The phone holder is cut and assembled. <Link to onshape>(https://cvilleschools.onshape.com/documents/a7888a055488cb7f7019fd47/w/7918e3e407033a13bde2e391/e/3e339f62e41d628ddd532f2c?renderMode=0&uiState=621ce594adf80343b1ccd3d9)
+ - The main box and servo is modeled but not printed/cut and assembled. <Link to onshape>(https://cvilleschools.onshape.com/documents/0842ea0297681654ed9ec6e5/w/2f2d596c173ecd37bdb8c60e/e/162fdac466993b0e6825e891?renderMode=0&uiState=621ce5c5873721518c4a4997)
+ 
 ### Problems
-
+ - Time management -- The project was not fully printed/cut and assembled by the due date.
 ### Reflection
+ - We made our project overly complicated in some parts, especially the phone holder, which took up a lot of our time and prevented us from finishing everything on time.
