@@ -71,3 +71,4 @@ Controlling LEDs with IR Remote & Reciever
 ### Reflection
  - We made our project overly complicated in some parts, especially the phone holder, which took up a lot of our time and prevented us from finishing everything on time.
  - We didn't quite complete our full design as we intended, but we got a majority of the project designed and ready for printing/cutting and assembling.
+ - If we had more time to complete this project, we would have focused on finishing touches and getting the project assembled, then seeing what actual problems come up, rather than spending time to work on potential problems.
