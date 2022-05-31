@@ -4,7 +4,7 @@
   This project is a portable self controlled tripod to be used for taking quality and well aimed pictures on your own from up to 30ft away from the camera. It is capable of turning on all axes to aim a phone camera mounted at the top. It is controlled by an IR Universal Remote and an Arduino Uno.
   
 ### Smart Goal
-  Selfie sticks and other ways to take pictures from far away lack enough control in how you pose and are less practical overall. By Feb 1st we will construct a tripod mounted robot, controlled by an IR remote in order to take good pictures from a variety of angles. In order to achieve this, the robot must have 180 degree control in all directions. This project is meant to cover the inconvenience of a regular tripod of not being able to re-adjust while posing.
+  Selfie sticks and other ways to take pictures from far away lack enough control in how you pose and are less practical overall. By Feb 1st we plan to construct a tripod mounted robot, controlled by an IR remote in order to take good pictures from a variety of angles. In order to achieve this, the robot must have 180 degree control in all directions. This project is meant to cover the inconvenience of a regular tripod of not being able to re-adjust while posing.
 
 ### Criteria 
 - 180 degree rotation of x, y, and z axes
