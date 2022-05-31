@@ -1,5 +1,7 @@
 // Some code from:  IR read codes by Hanie kiani https://electropeak.com/learn/   
 
+// When assembled -- initialize and run servos in each case
+
 #include <IRremote.h>
 
 int RECV_PIN = 7; 
